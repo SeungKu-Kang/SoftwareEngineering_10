@@ -1,3 +1,15 @@
+# Use Case Descriptions
+
+## 강승구
+
+---
+
+## 장자윤
+
+---
+
+## 정윤호
+
 ### Use case description: 설문 검색
 
 | Actor Action | System Response |
@@ -9,7 +21,6 @@
 **Extensions**  
 6단계 이후, 회원이 검색 결과 리스트에서 특정 설문을 선택하면 해당 설문의 상세 정보 화면으로 이동한다.
 
----
 
 ### Use case description: 설문 상세정보 조회
 
@@ -20,7 +31,6 @@
 **Extensions**  
 2단계 이후, 회원이 응답 버튼을 클릭하면 설문 응답 화면으로 이동한다.
 
----
 
 ### Use case description: 설문 응답
 
@@ -32,3 +42,9 @@
 
 **Extensions**  
 None
+
+---
+
+## 황상현
+
+---
