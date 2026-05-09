@@ -1,3 +1,33 @@
+팀 코드: 46538
+
+## 역할 분배
+
+1. 회원가입 / 회원 탈퇴 + 로그아웃 / 로그인 / 통계 정보 조회 + 검색단위선택 (회원 + 관리자) - 장자윤
+2. 설문 등록 / 설문 리스트 조회 / 설문 상세 정보 조회-팝업 / 특정 설문 삭제 (관리자) - 강승구
+3. 설문 검색 / 설문 상세 정보 조회 / 설문 응답 (회원) - 정윤호
+4. 응답한 설문 조회 / 응답한 설문 수정 / 응답한 설문 삭제 (회원) - 황상현
+
+---
+
+## 팀원별 수행 내용
+
+장자윤:
+강승구: 
+정윤호: use case diagram 작성 / 설문 검색, 설문 상세정보 조회, 설문 응답 기능에 대한 requirement list, use case descriptions 작성
+황상현:
+
+---
+
+## 프로젝트 세팅
+
+Github: https://github.com/SeungKu-Kang/SoftwareEngineering_10
+Figma: https://www.figma.com/design/rInRh2DHMY2HsHb46ne9vd
+UML Tool: StarUML
+협업용 메신저: Discord
+
+---
+
+## Requirement List
 | No. | Requirement | Use Case(s) |
 |---:|---|---|
 | 1 | 검색 조건으로 현재 진행 중, 진행 예정, 종료된 설문 중 하나를 선택할 수 있어야 한다. | 설문 검색 |
