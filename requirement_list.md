@@ -11,19 +11,10 @@
 
 ## 팀원별 수행 내용
 
-장자윤:
-강승구: 
-정윤호: use case diagram 작성 / 설문 검색, 설문 상세정보 조회, 설문 응답 기능에 대한 requirement list, use case descriptions 작성
-황상현:
-
----
-
-## 프로젝트 세팅
-
-Github: https://github.com/SeungKu-Kang/SoftwareEngineering_10
-Figma: https://www.figma.com/design/rInRh2DHMY2HsHb46ne9vd
-UML Tool: StarUML
-협업용 메신저: Discord
+- 장자윤:
+- 강승구: 
+- 정윤호: use case diagram 작성 / 설문 검색, 설문 상세정보 조회, 설문 응답 기능에 대한 requirement list, use case descriptions 작성
+- 황상현:
 
 ---
 

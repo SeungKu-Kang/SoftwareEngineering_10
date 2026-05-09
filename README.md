@@ -1,6 +1,15 @@
 # SoftwareEngineering_10
 2026-1 소프트웨어 공학 10조
 
+## 프로젝트 세팅
+
+- Github: https://github.com/SeungKu-Kang/SoftwareEngineering_10
+- UML Tool: StarUML
+- Design Tool: Figma
+- 협업용 메신저: Discord
+
+---
+
 ## Commit Message Convention
 
 커밋 메시지는 아래 형식을 사용합니다.
