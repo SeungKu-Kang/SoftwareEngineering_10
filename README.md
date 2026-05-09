@@ -4,8 +4,8 @@
 ## 프로젝트 세팅
 
 - Github: https://github.com/SeungKu-Kang/SoftwareEngineering_10
-- Figma: https://www.figma.com/design/rInRh2DHMY2HsHb46ne9vd
 - UML Tool: StarUML
+- Design Tool: Figma
 - 협업용 메신저: Discord
 
 ---
