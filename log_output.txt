@@ -1,0 +1,59 @@
+[hsh021215-cyber] Tue May 12 12:34:05 2026 +0900 Update requirement_list.md 68083df
+[SeungKu-Kang] Tue May 12 02:06:58 2026 +0900 Merge branch 'main' into SeungKu-Kang e066107
+[SeungKu-Kang] Tue May 12 02:06:28 2026 +0900 docs: use case description 수정 373e3dc
+[Yoonho Jeong] Tue May 12 02:01:08 2026 +0900 Merge pull request #17 from SeungKu-Kang/sweatbuckets bb398d3
+[정윤호] Tue May 12 01:42:32 2026 +0900 docs: ucd 수정 6431ac0
+[SeungKu-Kang] Tue May 12 01:11:52 2026 +0900 docs: restructure requirement bfb5c52
+[jy000n] Tue May 12 00:14:48 2026 +0900 Merge pull request #16 from SeungKu-Kang/jayoon-chang 020229f
+[jy000n] Tue May 12 00:11:36 2026 +0900 docs: use_case_descriptions 수정 04c17c2
+[jy000n] Tue May 12 00:03:52 2026 +0900 docs: requirement_list 수정 a8dc514
+[Yoonho Jeong] Mon May 11 23:58:30 2026 +0900 Merge pull request #15 from SeungKu-Kang/sweatbuckets d5acf87
+[정윤호] Mon May 11 23:55:44 2026 +0900 docs: 수정 8117c7a
+[hsh021215-cyber] Mon May 11 23:49:36 2026 +0900 Update use_case_descriptions.md f3bbf3a
+[hsh021215-cyber] Mon May 11 23:49:10 2026 +0900 Update  use_case_descriptions.md e20310d
+[hsh021215-cyber] Mon May 11 23:46:25 2026 +0900 Update requirement_list.md 1723868
+[Yoonho Jeong] Mon May 11 23:37:57 2026 +0900 Merge pull request #14 from SeungKu-Kang/sweatbuckets ef39269
+[정윤호] Mon May 11 23:34:08 2026 +0900 docs: description 수정 8a984f4
+[jy000n] Mon May 11 21:59:28 2026 +0900 Merge pull request #13 from SeungKu-Kang/jayoon-chang 596ea84
+[jy000n] Mon May 11 21:56:15 2026 +0900 docs: 맡은 기능 requirement_list 수정 3ca4899
+[Yoonho Jeong] Mon May 11 21:43:27 2026 +0900 Merge pull request #12 from SeungKu-Kang/sweatbuckets 6aae608
+[정윤호] Mon May 11 21:41:44 2026 +0900 docs: 문장 수정 0fa0172
+[Yoonho Jeong] Mon May 11 21:25:29 2026 +0900 Merge pull request #11 from SeungKu-Kang/sweatbuckets da000f9
+[정윤호] Mon May 11 13:21:38 2026 +0900 chore: remove tracked .DS_Store 4e0d1fd
+[정윤호] Mon May 11 13:14:37 2026 +0900 docs: use case diagram 수정 c5d4f9b
+[jy000n] Mon May 11 00:33:34 2026 +0900 fix: 충돌 마커 제거 7b2151d
+[jy000n] Mon May 11 00:27:24 2026 +0900 Merge pull request #10 from SeungKu-Kang/jayoon-chang 7da0689
+[jy000n] Mon May 11 00:25:45 2026 +0900 docs: 문서 형식 수정, 충돌 마커 제거 2c56ee0
+[jy000n] Mon May 11 00:22:21 2026 +0900 fix: merge conflic 해결 4cd51df
+[jy000n] Mon May 11 00:11:22 2026 +0900 Merge pull request #9 from SeungKu-Kang/jayoon-chang 20220d9
+[jy000n] Mon May 11 00:09:05 2026 +0900 chore: merge conflict 해결 494ed81
+[SeungKu-Kang] Mon May 11 00:06:33 2026 +0900 Merge pull request #8 from SeungKu-Kang/SeungKu-Kang fb558f2
+[SeungKu-Kang] Mon May 11 00:06:21 2026 +0900 Merge branch 'main' into SeungKu-Kang c9fc1e2
+[jy000n] Mon May 11 00:06:18 2026 +0900 chore: merge conflic 해결 fb4e138
+[SeungKu-Kang] Mon May 11 00:04:33 2026 +0900 docs: update requirement list & conflict control 2c7bfbe
+[jy000n] Mon May 11 00:04:20 2026 +0900 docs: 맡은 기능 use_case_descriptions 수정 6a85b2f
+[SeungKu-Kang] Sun May 10 23:56:54 2026 +0900 docs: update use case diagram + merge 8a43e84
+[Yoonho Jeong] Sun May 10 23:49:54 2026 +0900 Merge pull request #7 from SeungKu-Kang/sweatbuckets 079fe2f
+[정윤호] Sun May 10 23:46:50 2026 +0900 docs: use case diagram 수정 332514b
+[jy000n] Sun May 10 23:43:31 2026 +0900 docs: 맡은 기능 requirement_list 수정 d3f5551
+[hsh021215-cyber] Sun May 10 23:09:57 2026 +0900 Merge pull request #6 from SeungKu-Kang/HwangSangHyun 3d5df8b
+[hsh021215] Sun May 10 23:08:09 2026 +0900 requirementlist 451caa9
+[hsh021215] Sun May 10 23:05:06 2026 +0900 응답한 설문 조회/수정/취소 6d1a996
+[jy000n] Sun May 10 23:00:34 2026 +0900 docs: 맡은 기능 requirement_list 작성 244bc8a
+[Yoonho Jeong] Sat May 9 16:43:24 2026 +0900 Merge pull request #5 from SeungKu-Kang/sweatbuckets 5b1c4d2
+[정윤호] Sat May 9 16:41:52 2026 +0900 docs: 제출 양식 수정 3815c86
+[정윤호] Sat May 9 16:38:42 2026 +0900 docs: 제출 양식 수정 f8f8c8a
+[Yoonho Jeong] Sat May 9 16:30:18 2026 +0900 Merge pull request #4 from SeungKu-Kang/sweatbuckets d9875f7
+[정윤호] Sat May 9 16:29:43 2026 +0900 docs: readme 수정 54293c5
+[정윤호] Sat May 9 16:26:24 2026 +0900 docs:  md문법에 맞게 수정 6dafb10
+[Yoonho Jeong] Sat May 9 16:24:22 2026 +0900 Merge pull request #3 from SeungKu-Kang/sweatbuckets 6d611aa
+[정윤호] Sat May 9 16:23:26 2026 +0900 docs: requirement list 제출 양식에 맞게 수정 b8ffdb7
+[Yoonho Jeong] Sat May 9 16:04:28 2026 +0900 Merge pull request #2 from SeungKu-Kang/sweatbuckets 36f3998
+[정윤호] Sat May 9 16:01:48 2026 +0900 docs: requirement list, use case description 수정 c91a6e0
+[정윤호] Sat May 9 15:52:31 2026 +0900 docs: 맡은 기능 requirement list, use case description 추가 05ebc95
+[SeungKu-Kang] Sat May 9 00:17:58 2026 +0900 docs: update use case description 0a219bd
+[SeungKu-Kang] Sat May 9 00:00:30 2026 +0900 docs: update requirement list 99c343d
+[Yoonho Jeong] Fri May 8 13:47:43 2026 +0900 Merge pull request #1 from SeungKu-Kang/sweatbuckets cfd761b
+[정윤호] Fri May 8 13:45:40 2026 +0900 docs: add ucd af18699
+[정윤호] Fri May 8 12:50:10 2026 +0900 docs: creating docs file da5099a
+[SeungKu-Kang] Fri May 8 10:51:47 2026 +0900 Initial commit 5ae8b19
